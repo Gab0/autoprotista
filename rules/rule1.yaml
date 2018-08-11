@@ -1,0 +1,7 @@
+activate:
+  1: [1,3]
+  2: [2]
+  5: [4]
+deactivate:
+  [1,7]
+neighborhoodType: 1

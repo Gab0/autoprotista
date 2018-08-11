@@ -1,0 +1,9 @@
+initial:
+  method: centralbar
+  size: 5
+activate:
+  2: [2,3]
+  5: [4,5,6]
+deactivate:
+  [1,7]
+neighborhoodType: 1

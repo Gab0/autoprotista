@@ -1,0 +1,5 @@
+activate:
+  1: [1, 2]
+deactivate: [8, 7, 5]
+initial: {method: centralbar, size: 2}
+neighborhoodType: 1
